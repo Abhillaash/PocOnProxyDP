@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\obj\Debug\netcoreapp3.1\PocOnProxyDP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\obj\Debug\netcoreapp3.1\PocOnProxyDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\obj\Debug\netcoreapp3.1\PocOnProxyDP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\obj\Debug\netcoreapp3.1\PocOnProxyDP.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\obj\Debug\netcoreapp3.1\PocOnProxyDP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\bin\Debug\netcoreapp3.1\PocOnProxyDP.exe
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\bin\Debug\netcoreapp3.1\PocOnProxyDP.deps.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\bin\Debug\netcoreapp3.1\PocOnProxyDP.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\bin\Debug\netcoreapp3.1\PocOnProxyDP.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\bin\Debug\netcoreapp3.1\PocOnProxyDP.dll
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\bin\Debug\netcoreapp3.1\PocOnProxyDP.pdb
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\obj\Debug\netcoreapp3.1\PocOnProxyDP.dll
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\obj\Debug\netcoreapp3.1\PocOnProxyDP.pdb
+C:\Users\Lenovo\Downloads\Monocept\PocOnProxyDP\PocOnProxyDP\obj\Debug\netcoreapp3.1\PocOnProxyDP.genruntimeconfig.cache
